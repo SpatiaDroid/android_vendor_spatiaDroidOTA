@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: OnePlus 6
+"version": "6.0 Android 13",
+Device maintainer: vikas(optimusprime)
+
+====21 Sept, 2022 ====Device-side====
+Sync  a13 source changes as of 22/09/22
+
+====22 Sept, 2022 ====Device-side====
+-first android a13 stable build release
+-lots of improvments and optimization done

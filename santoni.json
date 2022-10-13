@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+	"maintainer": "EvilAnsh",
+	"oem": "Xiaomi",
+	"device": "Redmi 4/4X",
+	"filename": "riceDroid-12.1-2022081902-santoni-v5.0-PIXEL.zip",
+	"download": "https://sourceforge.net/projects/evilanshbuild/files/riceDroid/santoni/riceDroid-12.1-2022081902-santoni-v5.0-PIXEL.zip/download",
+	"timestamp": 1660758714,
+	"md5": "01ad11896d5b3213a5d7baade93c43fa",
+	"sha256": "79e7556aedd5bbe86aecc00a1b6e59db482f5ec54e9f2fb0c832831cdaf81480",
+	"size": 1330309466,
+	"version": "5.0",
+	"buildtype": "Monthly",
+	"forum": "",
+	"gapps": "https://t.me/crDroidSantoni/79045",
+	"firmware": "https://xiaomifirmwareupdater.com/download/?file=fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
+	"modem": "",
+	"bootloader": "",
+	"recovery": "https://t.me/jabiyeff_caf/114",
+	"paypal": "",
+	"telegram": "https://t.me/AnshPrjkt",
+	"dt": "https://github.com/riceDroid-Devices/android_device_xiaomi_santoni",
+	"common-dt": "",
+	"kernel": "https://github.com/EvilAnsh/kernel_xiaomi_santoni"
+    }
+  ]
+}
